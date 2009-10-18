@@ -8,7 +8,7 @@ class GravatarController extends PluginController {
 	public function __construct()
 	{
 		$this->setLayout('backend');
-		$this->assignToLayout('sidebar', new View('../../../plugins/gravatar/views/sidebar'));
+		$this->assignToLayout('sidebar', new View('../../plugins/gravatar/views/sidebar'));
 	}
 	
 	public function index()
