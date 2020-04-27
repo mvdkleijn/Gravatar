@@ -1,3 +1,5 @@
+**Status:** No longer active / archived
+
 Gravatar Plugin for Wolf CMS
 by Andrew Waters
 andrew@band-x.org
